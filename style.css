@@ -1,0 +1,16 @@
+img{
+    width: 100px;
+    border: 3px solid #343533;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    float: left
+}
+.obr{
+    display: inline-block;
+
+}
+
+.line{
+display: block;   
+}
